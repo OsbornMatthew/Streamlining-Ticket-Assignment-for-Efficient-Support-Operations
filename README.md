@@ -4,7 +4,7 @@ This project aims to automate the ticket assignment process in ServiceNow for AB
 
 ---
 
-## 🚀 Objective
+## Objective
 
 To implement an automated system in ServiceNow that:
 - Automatically assigns tickets to the appropriate support team based on the issue type.
@@ -13,7 +13,7 @@ To implement an automated system in ServiceNow that:
 
 ---
 
-## 🔧 Features
+## Features
 
 - Creation of users, groups, and roles in ServiceNow
 - Custom table setup (`Operations Related`) for ticket management
@@ -28,7 +28,7 @@ To implement an automated system in ServiceNow that:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 - `/docs` – Documentation (Design, Planning, Performance Testing)
 - `/screenshots` – Screenshots for each phase of the project
@@ -37,7 +37,7 @@ To implement an automated system in ServiceNow that:
 
 ---
 
-## 🧪 Testing & Validation
+## Testing & Validation
 
 - Tested using sample ticket entries with varied issue types
 - Verified correct flow execution and ticket routing
@@ -46,7 +46,7 @@ To implement an automated system in ServiceNow that:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **Platform:** ServiceNow
 - **Modules Used:** Flow Designer, Form Design, ACL, Security Admin
@@ -55,7 +55,7 @@ To implement an automated system in ServiceNow that:
 
 ---
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 - Average assignment time reduced significantly
 - Tickets auto-assigned to correct teams with no manual routing
@@ -63,7 +63,7 @@ To implement an automated system in ServiceNow that:
 
 ---
 
-## 📅 Timeline Overview
+## Timeline Overview
 
 | Phase | Description |
 |-------|-------------|
@@ -75,16 +75,16 @@ To implement an automated system in ServiceNow that:
 
 ---
 
-## 🤝 Contributors
+## Contributors
 
-- Team ID : LTVIP2025TMID29823
- 
+- Team ID : NM2025TMID05565
+
 Team Size : 4
 
 Team Leader : Osborn Matthew A I
 
-Team member : Sidesh A S
+Team member : Regin Kumar R
+
+Team member : Sidhesh A S
 
 Team member : Retheesh R
-
-Team member : Regin Kumar
